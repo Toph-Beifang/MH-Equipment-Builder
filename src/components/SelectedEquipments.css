@@ -1,0 +1,15 @@
+.button {
+  margin-left: auto;
+  padding: 5px 10px;
+  font-size: 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: #ff6a00;
+  color: white;
+  border: none;
+}
+.li {
+  margin-bottom: 20px;
+  display: "flex";
+  align-items: "center";
+}
